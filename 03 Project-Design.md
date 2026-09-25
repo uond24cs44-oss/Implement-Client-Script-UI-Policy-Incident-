@@ -8,7 +8,7 @@ ServiceNow Incident Management
 
 Incident fields:
 
-- Impact
+- Impact 
 - Assignment Group
 - Assigned To
 - Urgency
