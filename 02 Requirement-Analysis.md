@@ -6,7 +6,7 @@
 
 When Impact is set to High:
 
-- Assignment Group must be mandatory.
+- Assignment Group must be  mandatory.
 - The UI Policy must be active.
 - Reverse if false must be enabled.
 
