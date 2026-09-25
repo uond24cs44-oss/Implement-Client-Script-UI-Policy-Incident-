@@ -10,7 +10,7 @@
 | 4 | Project Planning | Completed |
 | 5 | Project Development | Planned |
 | 6 | Project Testing | Planned |
-| 7 | Project Documentation | Planned |
+| 7 | Project Documentation | Planned |  
 | 8 | Project Demonstration | Planned |
 
 ## Development Tasks
