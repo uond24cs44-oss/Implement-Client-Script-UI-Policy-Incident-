@@ -7,7 +7,7 @@ Implement Client Script & UI Policy (Incident)
 ## Introduction
 
    
-This project demonstrates the implementation of UI Policies
+This project demonstrates the implementation of UI  Policies
 and Client Scripts in ServiceNow Incident Management.
 
 ## Objective
