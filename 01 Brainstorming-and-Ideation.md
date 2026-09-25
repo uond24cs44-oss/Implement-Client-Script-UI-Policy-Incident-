@@ -26,7 +26,7 @@ The proposed solution is to use:
 When an Incident has High Impact:
 
 - Assignment Group should be mandatory.
-- Urgency should become read-only.
+- Urgency should become read--only.
 - Urgency should automatically be set to High.
 - Assigned To should be mandatory before saving.
 - State should not be changed through list editing.
